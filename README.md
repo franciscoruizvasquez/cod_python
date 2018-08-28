@@ -1,2 +1,1 @@
-# cod_python
-prueba
+Repositorio con funciones utiles de Python
